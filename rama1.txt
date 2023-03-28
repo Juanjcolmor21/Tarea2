@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+documento1
+documento1
+documento1
+=======
+>>>>>>> miramaJuanJose
 rama1
 rama1
